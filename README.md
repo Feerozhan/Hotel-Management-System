@@ -1,52 +1,91 @@
-# Hotel-Management-System
+# Hotel Management System
 
-Simple hotel booking website with content management system. Users can book rooms for specific dates. Admin can create, update, and delete room details. Admin can manage everything in the app.
+A simple and clean Hotel Management System built with **HTML**, **CSS**, **JavaScript**, **PHP**, **Laravel**, and **MySQL**. This project lets users book rooms online and gives the admin a dashboard to manage all bookings.
 
-## Video
-<!--<a href="https://www.youtube.com/watch?v=rKwBxxVXWkM">click here..</a>-->
-https://github.com/tushar-2223/Hotel-Management-System/assets/87109400/08742fd7-5e7b-4459-90ef-c4e6b3e0cabd
+## Features
 
-## Tech Stack 
+* User Login and Registration
+* Browse Available Rooms
+* Book a Room
+* Store Booking Details in Database
+* Admin Panel to View All Bookings
+* Clean and Responsive UI
 
-```sh
-HTML
-CSS
-JAVASCRIPT
-PHP
-BOOTSTRAP 
+## Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript
+**Backend:** PHP / Laravel
+**Database:** MySQL
+**Local Server:** XAMPP / Laravel Artisan
+
+## Installation
+
+### 1. Clone the Project
+
+```bash
+git clone https://github.com/yourusername/hotel-management-system.git
 ```
 
-## Requirements Windows:
+### 2. Install Dependencies
 
-```sh
-1 Download & Install: XAMPP in C:\xampp (default)
-2 Clone this repository in C:\xampp\htdocs
-3 Run XAMPP and start "Apache" and "MySQL"
-4 Open the link "localhost/phpmyadmin/"
-5 Click on new at sidebar and create a database name "bluebirdhotel"
-After clicking database click import and select the file "bluebirdhotel.sql"
-Open the link "http://localhost/Hotel-Management-System/"
-Now register and login
+```bash
+composer install
+npm install
 ```
 
-## Requirements Linux[Rocky Linux 9]:
+### 3. Set Up Environment
 
-```sh
-1 Install dnf package manager
-2 Clone this repository in your home directory
-3 Enable execute permissions on setup.sh `chmod 755 setup.sh`
-4 Login as root or use `sudo su - root`
-5 Run setup.sh `./setup.sh`
-Open the link "http://localhost/Hotel-Management-System/"
-Now register and login
+Create a `.env` file:
+
+```env
+DB_DATABASE=hotel_db
+DB_USERNAME=root
+DB_PASSWORD=
 ```
 
+Run migrations:
 
-### login page
-
-```sh
-== Staff Login ==
-
-Email : Admin@gmail.com
-Password : 1234
+```bash
+php artisan migrate
 ```
+
+### 4. Run the Project
+
+```bash
+php artisan serve
+```
+
+Open in browser: `http://127.0.0.1:8000`
+
+## Project Structure
+
+```
+hotel-management-system/
+├── public/
+├── resources/
+│   ├── views/
+│   └── css/
+├── routes/
+├── app/
+├── database/
+└── .env
+```
+
+## Admin Panel
+
+Login as admin and manage room bookings.
+You can:
+
+* View users
+* View bookings
+* Update booking status
+
+## Screenshots
+
+(Add screenshots here if you want.)
+
+## License
+
+This project is free to use for learning or personal use.
+
+---
