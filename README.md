@@ -82,6 +82,15 @@ You can:
 
 ## Screenshots
 
+Here are the screenshots added to your project:
+
+```md
+![Screenshot 195](./image/Screenshot%20(195).png)
+![Screenshot 196](./image/Screenshot%20(196).png)
+![Screenshot 197](./image/Screenshot%20(197).png)
+```
+
+Make sure the images are placed inside the `image` folder of your project.
 (Add screenshots here if you want.)
 
 ## License
