@@ -79,9 +79,11 @@ You can:
 * View users
 * View bookings
 * Update booking status
-
+home page :
 ![Screenshot 196](image/Screenshot%20(196).png)
+admin dashboard:
 ![Screenshot 197](image/Screenshot%20(197).png)
+user login page :
 ![admin Page](image/Screenshot%20(195).png)
 
 
