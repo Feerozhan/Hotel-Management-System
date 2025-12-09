@@ -81,7 +81,7 @@ You can:
 * Update booking status
 
 ## Screenshots
-![Screenshot 196](image/hotell.jpg)
+![Screenshot 196](image/hhhhhhh.png)
 ![Screenshot 197](image/hhhhhh.png)
 ![admin dashbord](image/hhhhh.png)
 
