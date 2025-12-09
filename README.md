@@ -82,7 +82,7 @@ You can:
 
 ![Screenshot 196](image/hotell.jpg)
 ![Screenshot 197](image/Screenshot%20(197).png)
-![Reservation Page](image/hhhhh.png)
+![admin Page](image/hhhhh.png)
 
 
 ## License
