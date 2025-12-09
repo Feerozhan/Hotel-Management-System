@@ -81,12 +81,9 @@ You can:
 * Update booking status
 
 ## Screenshots
-
-```md![Reservation Page](image/hhhhh.png)
-![Screenshot 196](image/hotel1.jpg)
+![Screenshot 196](image/hotell.jpg)
 ![Screenshot 197](image/Screenshot%20(197).png)
-)
-![Reservation Page](hhhhh.png)
+![Reservation Page](image/hhhhh.png)
 
 ## License
 
