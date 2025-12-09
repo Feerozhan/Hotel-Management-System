@@ -83,7 +83,7 @@ You can:
 ## Screenshots
 ![Screenshot 196](image/hhhhhhh.png)
 ![Screenshot 197](image/hhhhhh.png)
-![admin dashbord](image/hhhhh.png)
+![admin Page](image/hhhhh.png)
 
 ## License
 
