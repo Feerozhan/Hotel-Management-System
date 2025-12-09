@@ -85,10 +85,8 @@ You can:
 ```md![Reservation Page](image/hhhhh.png)
 ![Screenshot 196](image/hotel1.jpg)
 ![Screenshot 197](image/Screenshot%20(197).png)
-
-
-Make sure the images are placed inside the `image` folder of your project.
-(Add screenshots here if you want.)
+)
+![Reservation Page](hhhhh.png)
 
 ## License
 
