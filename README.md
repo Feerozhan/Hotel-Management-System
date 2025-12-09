@@ -83,7 +83,7 @@ You can:
 ## Screenshots
 
 ```md![Reservation Page](image/hhhhh.png)
-![Screenshot 196](image/Screenshot%20(196).png)
+![Screenshot 196](image/hotel1.jpg)
 ![Screenshot 197](image/Screenshot%20(197).png)
 
 
