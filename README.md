@@ -85,7 +85,8 @@ You can:
 Here are the screenshots added to your project:
 
 ```md
-![hhhhh.png](./image/hhhhh.png)
+![Reservation Page](images/no1.png)
+![hhhhh.png](/image/hhhhh.png)
 ![Screenshot 196](./Screenshot (196).png)
 ![Screenshot 197](./image/Screenshot (197).png)
 ```
