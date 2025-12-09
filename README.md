@@ -87,7 +87,7 @@ You can:
 ### Admin Dashboard
 ![Admin Dashboard](image/Screenshot%20(197).png)
 
-### User Login Page
+### User/admin Login Page
 ![User Login Page](image/Screenshot%20(195).png)
 
 
