@@ -80,9 +80,9 @@ You can:
 * View bookings
 * Update booking status
 
-![Screenshot 196](image/hotell.jpg)
+![Screenshot 196](image/Screenshot%20(196).png)
 ![Screenshot 197](image/Screenshot%20(197).png)
-![admin Page](image/hhhhh.png)
+![admin Page](image/Screenshot%20(195).png)
 
 
 ## License
