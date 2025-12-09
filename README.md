@@ -82,8 +82,8 @@ You can:
 
 ## Screenshots
 ![Screenshot 196](image/hotell.jpg)
-![Screenshot 197](image/Screenshot%20(197).png)
-![Reservation Page](image/hhhhh.png)
+![Screenshot 197](image/hhhhhh.png)
+![admin dashbord](image/hhhhh.png)
 
 ## License
 
